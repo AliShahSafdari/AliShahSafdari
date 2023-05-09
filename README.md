@@ -28,3 +28,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alishahsafdari&" alt="alishahsafdari" /></p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AlishahSafdari&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+<p align="center">
+  <a href="https://github.com/AliShahSafdari" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/AlishahSafdari?logo=github&style=for-the-badge&color=282b2f&labelColor=red" alt="GitHub followers badge" /></a>
+</p>
+
